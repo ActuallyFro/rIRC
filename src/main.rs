@@ -1,3 +1,6 @@
+//rIRC (like mIRC, but R): Rust-based IRC waRgaming Client 
+//========================================================
+// v0.1.0 <CAO: 22 Nov 2024>
 use std::io::{self, Write, BufRead, BufReader};
 use std::net::TcpStream;
 

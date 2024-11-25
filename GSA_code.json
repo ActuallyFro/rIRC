@@ -1,0 +1,19 @@
+ {
+   "project_name": "Rust-based IRC waRgaming Client",
+   "description": "A minimum viable client that enables two or more parties to chat via an IRC server.",
+   "repository_url": "https://github.com/ActuallyFro/rIRC",
+   "licenses": [
+     {
+       "license_name": "Creative ",
+       "license_url": "https://opensource.org/licenses/MIT"
+     }
+   ],
+   "version": "0.1.0",
+   "maintainers": [
+     {
+       "name": "OTS A4/6 Director",
+       "email": "ots.registrar.workflow@us.af.mil"
+     }
+   ],
+   "tags": ["IRC", "client", "chat"]
+ }
